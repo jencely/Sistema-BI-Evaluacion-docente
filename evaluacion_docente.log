@@ -1,0 +1,13 @@
+2025-02-12 15:05:48,652 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-12 15:05:48,860 - INFO - Conexión a base de datos establecida
+2025-02-12 15:05:49,479 - ERROR - Error procesando archivo: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El procedimiento o la función 'sp_RegistrarEvaluacion' esperaba el parámetro '@Carrera', que no se ha especificado. (201) (SQLExecDirectW)")
+2025-02-12 15:07:56,247 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpio.xlsm
+2025-02-12 15:07:56,301 - ERROR - Error procesando archivo: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El procedimiento o la función 'sp_RegistrarEvaluacion' esperaba el parámetro '@Carrera', que no se ha especificado. (201) (SQLExecDirectW)")
+2025-02-12 15:11:22,889 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpio.xlsm
+2025-02-12 15:11:22,941 - ERROR - Error procesando archivo: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El procedimiento o la función 'sp_RegistrarEvaluacion' esperaba el parámetro '@Carrera', que no se ha especificado. (201) (SQLExecDirectW)")
+2025-02-12 15:14:00,390 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoRea.xlsm
+2025-02-12 15:14:00,444 - ERROR - Error procesando archivo: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El procedimiento o la función 'sp_RegistrarEvaluacion' esperaba el parámetro '@Carrera', que no se ha especificado. (201) (SQLExecDirectW)")
+2025-02-12 15:14:15,659 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoRea.xlsm
+2025-02-12 15:14:15,685 - ERROR - Error procesando archivo: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El procedimiento o la función 'sp_RegistrarEvaluacion' esperaba el parámetro '@Carrera', que no se ha especificado. (201) (SQLExecDirectW)")
+2025-02-12 15:14:58,289 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-12 15:14:58,340 - ERROR - Error procesando archivo: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El procedimiento o la función 'sp_RegistrarEvaluacion' esperaba el parámetro '@Carrera', que no se ha especificado. (201) (SQLExecDirectW)")

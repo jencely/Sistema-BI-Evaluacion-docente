@@ -1,0 +1,42 @@
+2025-02-12 10:05:44,984 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpio.xlsm
+2025-02-12 10:05:45,130 - INFO - Conexión a base de datos establecida
+2025-02-12 10:05:45,686 - ERROR - Error procesando archivo: La facultad 'Comunicación y TIC' no existe en el sistema
+2025-02-12 10:06:53,413 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpio.xlsm
+2025-02-12 10:06:53,420 - INFO - Conexión a base de datos establecida
+2025-02-12 10:06:53,451 - ERROR - Error procesando archivo: La facultad 'Comunicación y TIC' no existe en el sistema
+2025-02-12 10:12:55,205 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpio.xlsm
+2025-02-12 10:12:55,206 - INFO - Conexión a base de datos establecida
+2025-02-12 10:12:55,358 - INFO - Archivo procesado correctamente. EvaluacionID: 22
+2025-02-12 12:24:24,360 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoRea.xlsm
+2025-02-12 12:24:24,487 - INFO - Conexión a base de datos establecida
+2025-02-12 12:24:24,764 - INFO - Archivo procesado correctamente. EvaluacionID: 23
+2025-02-12 14:23:38,815 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpio.xlsm
+2025-02-12 14:23:38,889 - INFO - Conexión a base de datos establecida
+2025-02-12 14:23:39,204 - INFO - Archivo procesado correctamente. EvaluacionID: 24
+2025-02-12 14:38:36,457 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-12 14:38:36,480 - INFO - Conexión a base de datos establecida
+2025-02-12 14:38:36,652 - INFO - Archivo procesado correctamente. EvaluacionID: 25
+2025-02-12 15:16:11,863 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoRea.xlsm
+2025-02-12 15:16:11,955 - INFO - Conexión a base de datos establecida
+2025-02-12 15:16:12,431 - ERROR - Error procesando archivo: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El procedimiento o la función 'sp_RegistrarResultadosEvaluacion' esperaba el parámetro '@Item', que no se ha especificado. (201) (SQLExecDirectW)")
+2025-02-12 15:19:50,073 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoRea.xlsm
+2025-02-12 15:19:50,093 - INFO - Conexión a base de datos establecida
+2025-02-12 15:19:50,215 - INFO - Archivo procesado correctamente. EvaluacionID: 27
+2025-02-12 16:24:20,257 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpioSO.xlsm
+2025-02-12 16:24:20,435 - INFO - Conexión a base de datos establecida
+2025-02-12 16:24:21,580 - INFO - Archivo procesado correctamente. EvaluacionID: 28
+2025-02-12 16:31:20,006 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpioSO.xlsm
+2025-02-12 16:31:20,039 - INFO - Conexión a base de datos establecida
+2025-02-12 16:31:20,081 - ERROR - Error procesando archivo: El campo Nombre del Docente es requerido
+2025-02-13 18:19:45,215 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoReaSI.xlsm
+2025-02-13 18:19:45,408 - INFO - Conexión a base de datos establecida
+2025-02-13 18:19:46,098 - ERROR - Error procesando archivo: El campo Nombre del Docente es requerido
+2025-02-13 18:22:42,160 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoReaSI.xlsm
+2025-02-13 18:22:42,186 - INFO - Conexión a base de datos establecida
+2025-02-13 18:22:42,215 - ERROR - Error procesando archivo: El campo Nombre del Docente es requerido
+2025-02-13 18:22:59,180 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoReaSI.xlsm
+2025-02-13 18:22:59,187 - INFO - Conexión a base de datos establecida
+2025-02-13 18:22:59,375 - INFO - Archivo procesado correctamente. EvaluacionID: 29
+2025-02-13 20:19:54,828 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoReaSI.xlsm
+2025-02-13 20:19:54,956 - INFO - Conexión a base de datos establecida
+2025-02-13 20:19:55,538 - INFO - Archivo procesado correctamente. EvaluacionID: 30

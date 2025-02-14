@@ -1,0 +1,126 @@
+2025-02-11 18:45:22,173 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-11 18:45:22,425 - INFO - Conexión a base de datos establecida
+2025-02-11 18:45:23,136 - INFO - ID de evaluación generado: 14
+2025-02-11 18:45:23,230 - INFO - 
+                Registros en vistas:
+                - AnalisisPorCategoria: 25
+                - FormularioRevision: 25
+                - ResumenEvaluaciones: 25
+            
+2025-02-11 18:45:23,232 - INFO - Archivo procesado correctamente
+2025-02-11 19:16:23,570 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-11 19:16:23,665 - INFO - Conexión a base de datos establecida
+2025-02-11 19:16:24,116 - INFO - ID de evaluación generado: 15
+2025-02-11 19:16:24,184 - INFO - 
+                Registros en vistas:
+                - AnalisisPorCategoria: 25
+                - FormularioRevision: 25
+                - ResumenEvaluaciones: 25
+            
+2025-02-11 19:16:24,184 - INFO - Archivo procesado correctamente
+2025-02-11 19:24:46,857 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoRea.xlsm
+2025-02-11 19:24:46,949 - INFO - Conexión a base de datos establecida
+2025-02-11 19:24:47,313 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Datos del Docente
+2025-02-11 19:24:47,313 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Presentación de la Asignatura
+2025-02-11 19:24:47,313 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Asistencia
+2025-02-11 19:24:47,314 - WARNING - Categoría o ítem no válido: INFORMACIÓN GENERAL - Syllabus
+2025-02-11 19:24:47,314 - WARNING - Categoría o ítem no válido: INFORMACIÓN GENERAL - Normativas y Reglamentos
+2025-02-11 19:24:47,314 - WARNING - Categoría o ítem no válido: PLANIFICACIÓN DE EVALUACIONES - Planificación de Evaluaciones
+2025-02-11 19:24:47,314 - WARNING - Categoría o ítem no válido: PLANIFICACIÓN DE EVALUACIONES - Fechas importantes
+2025-02-11 19:24:47,314 - WARNING - Categoría o ítem no válido: CONTENIDOS - Nombre de la unidad
+2025-02-11 19:24:47,314 - WARNING - Categoría o ítem no válido: CONTENIDOS - Objetivos de la unidad
+2025-02-11 19:24:47,315 - WARNING - Categoría o ítem no válido: CONTENIDOS - Temario de la unidad
+2025-02-11 19:24:47,315 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD PRESENCIAL - Material de apoyo
+2025-02-11 19:24:47,315 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD PRESENCIAL - Tareas y evaluaciones
+2025-02-11 19:24:47,315 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Link de la clase virtual
+2025-02-11 19:24:47,315 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Video de la clase virtual
+2025-02-11 19:24:47,315 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Material de apoyo modalidad híbrida
+2025-02-11 19:24:47,316 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Tareas y evaluaciones híbrida
+2025-02-11 19:24:47,316 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Videos explicativos
+2025-02-11 19:24:47,316 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Material de apoyo Modalidad Online
+2025-02-11 19:24:47,316 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Link de tutoría
+2025-02-11 19:24:47,316 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Video de la tutoría
+2025-02-11 19:24:47,316 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Tareas y evaluaciones
+2025-02-11 19:24:47,316 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Instrucciones de la evaluación
+2025-02-11 19:24:47,317 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Link de la clase virtual
+2025-02-11 19:24:47,317 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Exámen parcial
+2025-02-11 19:24:47,317 - WARNING - Categoría o ítem no válido: BIBLIOGRAFÍA - Bibliografía Básica
+2025-02-11 19:24:47,317 - WARNING - Categoría o ítem no válido: BIBLIOGRAFÍA - Bibliografía Complementaria
+2025-02-11 19:24:47,347 - INFO - ID de evaluación generado: 16
+2025-02-11 19:24:47,412 - INFO - 
+                Registros en vistas:
+                - AnalisisPorCategoria: 25
+                - FormularioRevision: 25
+                - ResumenEvaluaciones: 25
+            
+2025-02-11 19:24:47,412 - INFO - Archivo procesado correctamente
+2025-02-12 08:39:31,191 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-12 08:39:31,277 - INFO - Conexión a base de datos establecida
+2025-02-12 08:39:31,525 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Datos del Docente
+2025-02-12 08:39:31,525 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Presentación de la Asignatura
+2025-02-12 08:39:31,525 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Asistencia
+2025-02-12 08:39:31,525 - WARNING - Categoría o ítem no válido: INFORMACIÓN GENERAL - Syllabus
+2025-02-12 08:39:31,526 - WARNING - Categoría o ítem no válido: INFORMACIÓN GENERAL - Normativas y Reglamentos
+2025-02-12 08:39:31,526 - WARNING - Categoría o ítem no válido: PLANIFICACIÓN DE EVALUACIONES - Planificación de Evaluaciones
+2025-02-12 08:39:31,526 - WARNING - Categoría o ítem no válido: PLANIFICACIÓN DE EVALUACIONES - Fechas importantes
+2025-02-12 08:39:31,526 - WARNING - Categoría o ítem no válido: CONTENIDOS - Nombre de la unidad
+2025-02-12 08:39:31,526 - WARNING - Categoría o ítem no válido: CONTENIDOS - Objetivos de la unidad
+2025-02-12 08:39:31,526 - WARNING - Categoría o ítem no válido: CONTENIDOS - Temario de la unidad
+2025-02-12 08:39:31,527 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD PRESENCIAL - Material de apoyo
+2025-02-12 08:39:31,527 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD PRESENCIAL - Tareas y evaluaciones
+2025-02-12 08:39:31,527 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Link de la clase virtual
+2025-02-12 08:39:31,527 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Video de la clase virtual
+2025-02-12 08:39:31,527 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Material de apoyo modalidad híbrida
+2025-02-12 08:39:31,527 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Tareas y evaluaciones híbrida
+2025-02-12 08:39:31,527 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Videos explicativos
+2025-02-12 08:39:31,528 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Material de apoyo Modalidad Online
+2025-02-12 08:39:31,528 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Link de tutoría
+2025-02-12 08:39:31,528 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Video de la tutoría
+2025-02-12 08:39:31,528 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Tareas y evaluaciones
+2025-02-12 08:39:31,528 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Instrucciones de la evaluación
+2025-02-12 08:39:31,528 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Link de la clase virtual
+2025-02-12 08:39:31,528 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Exámen parcial
+2025-02-12 08:39:31,529 - WARNING - Categoría o ítem no válido: BIBLIOGRAFÍA - Bibliografía Básica
+2025-02-12 08:39:31,529 - WARNING - Categoría o ítem no válido: BIBLIOGRAFÍA - Bibliografía Complementaria
+2025-02-12 08:39:31,598 - ERROR - Error procesando archivo: No results.  Previous SQL was not a query.
+2025-02-12 08:40:22,713 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpio.xlsm
+2025-02-12 08:40:22,818 - INFO - Conexión a base de datos establecida
+2025-02-12 08:40:23,472 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Datos del Docente
+2025-02-12 08:40:23,472 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Presentación de la Asignatura
+2025-02-12 08:40:23,473 - WARNING - Categoría o ítem no válido: INTRODUCCIÓN - Asistencia
+2025-02-12 08:40:23,473 - WARNING - Categoría o ítem no válido: INFORMACIÓN GENERAL - Syllabus
+2025-02-12 08:40:23,473 - WARNING - Categoría o ítem no válido: INFORMACIÓN GENERAL - Normativas y Reglamentos
+2025-02-12 08:40:23,473 - WARNING - Categoría o ítem no válido: PLANIFICACIÓN DE EVALUACIONES - Planificación de Evaluaciones
+2025-02-12 08:40:23,473 - WARNING - Categoría o ítem no válido: PLANIFICACIÓN DE EVALUACIONES - Fechas importantes
+2025-02-12 08:40:23,473 - WARNING - Categoría o ítem no válido: CONTENIDOS - Nombre de la unidad
+2025-02-12 08:40:23,474 - WARNING - Categoría o ítem no válido: CONTENIDOS - Objetivos de la unidad
+2025-02-12 08:40:23,474 - WARNING - Categoría o ítem no válido: CONTENIDOS - Temario de la unidad
+2025-02-12 08:40:23,474 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD PRESENCIAL - Material de apoyo
+2025-02-12 08:40:23,474 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD PRESENCIAL - Tareas y evaluaciones
+2025-02-12 08:40:23,474 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Link de la clase virtual
+2025-02-12 08:40:23,474 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Video de la clase virtual
+2025-02-12 08:40:23,475 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Material de apoyo modalidad híbrida
+2025-02-12 08:40:23,475 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD HÍBRIDA O SEMIPRESENCIAL - Tareas y evaluaciones híbrida
+2025-02-12 08:40:23,475 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Videos explicativos
+2025-02-12 08:40:23,475 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Material de apoyo Modalidad Online
+2025-02-12 08:40:23,475 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Link de tutoría
+2025-02-12 08:40:23,475 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Video de la tutoría
+2025-02-12 08:40:23,475 - WARNING - Categoría o ítem no válido: CLASE MODALIDAD EN LÍNEA - Tareas y evaluaciones
+2025-02-12 08:40:23,476 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Instrucciones de la evaluación
+2025-02-12 08:40:23,476 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Link de la clase virtual
+2025-02-12 08:40:23,476 - WARNING - Categoría o ítem no válido: EVALUACIÓN PARCIAL O FINAL - Exámen parcial
+2025-02-12 08:40:23,476 - WARNING - Categoría o ítem no válido: BIBLIOGRAFÍA - Bibliografía Básica
+2025-02-12 08:40:23,476 - WARNING - Categoría o ítem no válido: BIBLIOGRAFÍA - Bibliografía Complementaria
+2025-02-12 08:40:23,518 - ERROR - Error procesando archivo: No results.  Previous SQL was not a query.
+2025-02-12 08:55:00,247 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-12 08:55:00,347 - INFO - Conexión a base de datos establecida
+2025-02-12 08:55:01,040 - ERROR - Error procesando archivo: No results.  Previous SQL was not a query.
+2025-02-12 08:58:05,788 - INFO - Sistema inicializado correctamente
+2025-02-12 08:58:17,520 - INFO - Sistema inicializado correctamente
+2025-02-12 09:03:57,849 - INFO - Sistema inicializado correctamente
+2025-02-12 09:04:31,423 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpio.xlsm
+2025-02-12 09:04:31,497 - INFO - Conexión a base de datos establecida
+2025-02-12 09:04:32,054 - ERROR - Error procesando archivo: No results.  Previous SQL was not a query.
+2025-02-12 09:14:12,293 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-12 09:14:12,371 - INFO - Conexión a base de datos establecida
+2025-02-12 09:14:13,008 - INFO - Archivo procesado correctamente. EvaluacionID: 21
