@@ -40,3 +40,12 @@
 2025-02-13 20:19:54,828 - INFO - Procesando archivo: Plantilla_Evaluacion_DiegoReaSI.xlsm
 2025-02-13 20:19:54,956 - INFO - Conexión a base de datos establecida
 2025-02-13 20:19:55,538 - INFO - Archivo procesado correctamente. EvaluacionID: 30
+2025-02-17 02:43:54,999 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpioSO.xlsm
+2025-02-17 02:43:55,074 - INFO - Conexión a base de datos establecida
+2025-02-17 02:43:55,564 - ERROR - Error procesando archivo: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Docente no encontrado (50000) (SQLExecDirectW)')
+2025-02-17 02:52:18,234 - INFO - Procesando archivo: Plantilla_Evaluacion_HarryCarpioSO.xlsm
+2025-02-17 02:52:18,237 - INFO - Conexión a base de datos establecida
+2025-02-17 02:52:18,300 - ERROR - Error procesando archivo: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Asignatura no encontrada (50000) (SQLExecDirectW)')
+2025-02-17 03:00:23,784 - INFO - Procesando archivo: Plantilla_Evaluacion_Luis Ávila.xlsm
+2025-02-17 03:00:23,873 - INFO - Conexión a base de datos establecida
+2025-02-17 03:00:24,290 - ERROR - Error procesando archivo: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Asignatura no encontrada (50000) (SQLExecDirectW)')
